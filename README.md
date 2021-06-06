@@ -1,6 +1,6 @@
 <h1 align=center><font size = 5>Segmenting and Clustering Localities in Bangalore</font></h1>
 
-<h1 align=right><font size = 2> - By Mohammed Faisal Khan</font></h1>
+<h1 align=right><font size = 1> - By Mohammed Faisal Khan</font></h1>
 
 In this project, I will be deciding which is the best possible location to open a restaurant in Bangalore with the help of a popular machine learning algorithm, the K – means clustering algorithm.  I am going to analyze the localities in Bangalore city to identify the most profitable area since the success of the restaurant depends on the people, ambience and the most important factor i.e. the density of other restaurants in that locality. 
 
